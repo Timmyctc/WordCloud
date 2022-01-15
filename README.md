@@ -1,8 +1,6 @@
 # WordCloud
 Console driven application that takes a txt file as input and produces a Word cloud as output
 
-Conor Timlin-Canning
-
 Program lifecycle is maintained by the console driven menu. Allows user 5 options 
 1) Parse Text File
 
@@ -12,7 +10,6 @@ The File Parser class delegates much of its behaviour to the Parent Parser class
 was to flesh out the concrete implementation differences in the implementing class File Parser but due to time constraints this wasnt possible. 
 User then is able to provide custom filename for the output file of the word cloud generated from their input file.
 
-There is generally a high level of input validation and error detection to this point. 
 
 2) Parse URL Link
 
